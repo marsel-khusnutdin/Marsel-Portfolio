@@ -1,6 +1,20 @@
 # Marsel Khusnutdinov Data Analytics Portfolio
 Data Analytics Portfolio
 
+This portfolio includes Data analysis and Data visualization projects from the real professional experience and home projects as well.
+
+I've tried to show variety of professional skills I possess. Such as:
+
+* Data scrapping
+
+* Data cleaning
+
+* Exploratory data analysis using Python
+
+* Data visualization in Tableau and Power BI
+
+Please note, that Titles of each project are clickable. You can find the details of projects by that links.
+
 ## [Project 1: Power BI System In UD Group.](https://app.powerbi.com/view?r=eyJrIjoiYWMxY2Y2YWItM2I4Yy00MGZjLWE3NDQtNjgxYWVlZGQ5Mzc2IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9)
 This is the Financial Data Dashboard which we implemented during my work in the UD Group company.
 
@@ -17,8 +31,30 @@ BI System helped:
 
 *Tools: 1C: ERP, MS SQL Server, MS Excel, Power BI*
 
+*Note: the data in this dashboard is not real due to a NDA*
 
-## [Project 2: M-Ligue Tournament Results.](https://public.tableau.com/views/M-LigueResults2022/DashboardMain?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## [Project 2: Exploratory Data Analysis of US Traffic Accidents](https://github.com/marsel-khusnutdin/EDA---USA-Traffic-Accidents/blob/main/EDA%20-%20USA%20Traffic%20Accidents%20Final.ipynb)
+
+The purposes of this project are:
+
+To understand the cities and states with the highest numbers of accidents - total and per 1,000 population.
+To understand the most dangerous time for driving during the year, week and day.
+Maintained steps:
+
+1. Scrapping and cleaning data from Kaggle and Wikipedia sources.
+
+2. Geographical analysis and charts creating.
+
+3. Time Analysis and charts creating.
+
+4. Results and Conclusions.
+
+![Cities by accidents](https://user-images.githubusercontent.com/72653236/185888083-e0d07084-9584-4f2e-9313-4ed008ad3d08.JPG)
+![States accidents per 1000 population](https://user-images.githubusercontent.com/72653236/185888091-ded506e7-248e-4004-84cd-40cf089023ab.JPG)
+
+*Tools: Python on Jupyter Notebook (numpy, pandas, matplotlib, seaborn libraries)*
+
+## [Project 3: M-Ligue Tournament Results.](https://public.tableau.com/views/M-LigueResults2022/DashboardMain?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 During the pandemic, the vast majority of intellectual games migrated online. One of the most attended tournaments is M-Ligue, where our team performing for almost a year. There was a necessity to create an updating dashboard that helps:
 
@@ -32,9 +68,11 @@ During the pandemic, the vast majority of intellectual games migrated online. On
 
 <img src="https://user-images.githubusercontent.com/72653236/182849261-6a6ab2b3-5a9d-410b-b56b-06d11662d45b.JPG" width="550" height="300" />
 
-*Tools: Python on Jupyter Notebook (pandas, openpyxl libraries), Tableau*
+[Here is the notebook](https://github.com/marsel-khusnutdin/M-Ligue/blob/main/M-ligue%20results.ipynb) showing data transformation steps.
 
-## [Project 3: Budget System of Russian Federation](https://public.tableau.com/views/_16430321897780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+*Tools: Tableau, Python on Jupyter Notebook (pandas, openpyxl libraries)*
+
+## [Project 4: Budget System of Russian Federation](https://public.tableau.com/views/_16430321897780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The purpose of this dashboard is:
 
@@ -48,10 +86,10 @@ The purpose of this dashboard is:
 
 <img src="https://user-images.githubusercontent.com/72653236/182853559-4b3f0258-7ed0-4726-b1ff-6a760e9a62a0.JPG" width="640" height="350" />
 
-*Tools: MS Excel, Tableau*
+*Tools: Tableau, MS Excel*
 
 
-## Project 4: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiMTFjZDU1YTMtY2NiNC00ZTJkLWJhODgtM2I3MDM0YjJlOWU0IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9&pageName=ReportSection) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2E0MTBhMjAtYmRjZC00OWQ2LWFmNmYtYTg1NzliYzI5NzU4IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9)
+## Project 5: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiMTFjZDU1YTMtY2NiNC00ZTJkLWJhODgtM2I3MDM0YjJlOWU0IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9&pageName=ReportSection) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2E0MTBhMjAtYmRjZC00OWQ2LWFmNmYtYTg1NzliYzI5NzU4IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9)
 
 The main purposes of the CRM Orders Details dashboard are:
 
@@ -75,6 +113,4 @@ As a result, I've created [3 minutes-long video](https://www.loom.com/share/0966
 
 <img src="https://user-images.githubusercontent.com/72653236/182861311-c5efe6bf-7b30-45e2-8aed-822ae1c64f7e.JPG" width="640" height="350" />
 
-
-
-
+*Tools: Power BI, MS Excel*
