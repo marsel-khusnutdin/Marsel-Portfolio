@@ -15,7 +15,7 @@ I've tried to show variety of professional skills I possess. Such as:
 
 Please note, that Titles of each project are clickable. You can find the details of projects by that links.
 
-## [Project 1: Power BI System In UD Group.](https://app.powerbi.com/view?r=eyJrIjoiYWMxY2Y2YWItM2I4Yy00MGZjLWE3NDQtNjgxYWVlZGQ5Mzc2IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9)
+## [Project 1: Power BI System In UD Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
 This is the Financial Data Dashboard which we implemented during my work in the UD Group company.
 
 The company's domain is commercial real estate management. The dashboard covered managers' requierments in all possible dimensions: by areas, objects, revenue, and expenses groups.
@@ -89,7 +89,7 @@ The purpose of this dashboard is:
 *Tools: Tableau, MS Excel*
 
 
-## Project 5: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiMTFjZDU1YTMtY2NiNC00ZTJkLWJhODgtM2I3MDM0YjJlOWU0IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9&pageName=ReportSection) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2E0MTBhMjAtYmRjZC00OWQ2LWFmNmYtYTg1NzliYzI5NzU4IiwidCI6IjhhYWViZWI2LWI3ZTMtNDg1Zi1hYWU4LTI3MTdiZjIyNDdmYSIsImMiOjl9)
+## Project 5: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiM2YyOGViZDgtMTMwNC00NTNlLThhYTYtM2M1NjljMTBlYWY3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmVjNTg5ZTItOTFhNC00MDI4LWI4MmUtNzUwMDRjYmFhNWQ3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
 
 The main purposes of the CRM Orders Details dashboard are:
 
