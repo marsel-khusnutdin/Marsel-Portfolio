@@ -1,4 +1,4 @@
-# Marsel Khusnutdinov Data Analytics Portfolio
+# [Marsel Khusnutdinov Data Analytics Portfolio](https://github.com/marsel-khusnutdin/Marsel-Portfolio)
 Data Analytics Portfolio
 
 This portfolio includes Data analysis and Data visualization projects from the real professional experience and home projects as well.
@@ -13,19 +13,19 @@ I've tried to show variety of professional skills I possess. Such as:
 
 * Data visualization in Tableau and Power BI
 
-Please note, that Titles of each project are clickable. You can find the details of projects by that links.
+Please note, that Titles of each project are clickable. You can find the details of projects by clicking those links.
 
-## [Project 1: Power BI System In UD Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
-This is the Financial Data Dashboard which we implemented during my work in the UD Group company.
+## [Project 1: Power BI System In Unite-Development Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
+This is the Financial Data Dashboard which we implemented during my work in the Unite-Development Group company.
 
-The company's domain is commercial real estate management. The dashboard covered managers' requierments in all possible dimensions: by areas, objects, revenue, and expenses groups.
+The company's domain is commercial real estate management. The dashboard covered managers' requirements in different dimensions: by areas, objects, revenue, and expences groups.
 
 BI System helped:
-* To track Revenue and Expenses performance on an everyday basis;
+* To track Revenue and expences performance on an everyday basis;
 
 * To see the budget execution for any period;
 
-* Quickly understand the factors, affecting the indicators and make informed decisions according to the data.
+* Quickly understand the factors, affecting the indicators and make informed decisions based on the data.
 
 <img src="https://user-images.githubusercontent.com/72653236/182845416-7577345e-31ee-48f5-a919-3060959f7466.JPG" width="550" height="300" />
 
@@ -43,9 +43,9 @@ Maintained steps:
 
 1. Scrapping and cleaning data from Kaggle and Wikipedia sources.
 
-2. Geographical analysis and charts creating.
+2. Geographical analysis and charts creation.
 
-3. Time Analysis and charts creating.
+3. Time Analysis and charts creation.
 
 4. Results and Conclusions.
 
@@ -109,7 +109,7 @@ The SoundPRO company's dashboard was created to:
 
 * Perform the management of the stock.
 
-As a result, I've created [3 minutes-long video](https://www.loom.com/share/096670f977a2438d89fbfcfe25a44d1f) on Loom platform, where I briefly described how the customer can interact with the dashboard. 
+I've also created [3 minutes-long video](https://www.loom.com/share/096670f977a2438d89fbfcfe25a44d1f) on Loom platform, where I briefly described how the customer can interact with the dashboard. 
 
 <img src="https://user-images.githubusercontent.com/72653236/182861311-c5efe6bf-7b30-45e2-8aed-822ae1c64f7e.JPG" width="640" height="350" />
 
