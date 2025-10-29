@@ -13,7 +13,7 @@ I've tried to show variety of professional skills I possess. Such as:
 
 * Data visualization in Tableau and Power BI
 
-Please note, that Titles of each project are clickable. You can find the details of projects by clicking those links.
+Titles of each project are clickable. You can find the details of projects by clicking those links.
 
 ## [Project 1: Power BI System In Unite-Development Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
 This is the Financial Data Dashboard which we implemented during my work in the Unite-Development Group company.
