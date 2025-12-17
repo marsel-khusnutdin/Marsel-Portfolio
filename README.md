@@ -15,7 +15,31 @@ I've tried to show variety of professional skills I possess. Such as:
 
 Titles of each project are clickable. You can find the details of projects by clicking those links.
 
-## [Project 1: Power BI System In Unite-Development Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
+## [Project 1: Trading Company Overview Tableau Dashboard](https://public.tableau.com/views/CompanyOverview_17644470068300/CompanyOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+This dashboard demonstrates how user growth, money flows, and trading activity can be analyzed at a **country level** using a single, coherent analytical view. It was built using dummy data defined in the [`data_creation.sql`](https://github.com/marsel-khusnutdin/Trading-Company-Dashboard/blob/main/data_creation.sql) file.
+
+The dashboard is structured into three sections:
+- **Onboarding** – visualizes the user funnel, conversion rates, and monthly onboarding performance.
+- **Transactions** – highlights deposit and withdrawal behavior, including net cash flow trends.
+- **Trading Volume** – shows overall trading activity, country comparisons, and volume efficiency metrics (VPM).
+
+The goal of this dashboard is to show how different visualization choices can be combined to explain **user behavior, financial performance, and geographic differences**, while keeping the analysis clear and decision-oriented.
+
+🔗 **Published Dashboard:**  
+[View the dashboard](https://public.tableau.com/views/CompanyOverview_17644470068300/CompanyOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+> **Note:** Please use full-screen mode to ensure the dashboard fits properly on the screen.
+
+<img width="1343" height="677" alt="Main page" src="https://github.com/user-attachments/assets/ef5a7823-2921-43c6-9e7d-d1810f9d25d9" />
+
+
+*Tools: PostgreSQL, Tableau, MS Excel*
+
+*Note: the data in this dashboard is not real due to an NDA*
+
+
+## [Project 2: Power BI System In Unite-Development Group.](https://app.powerbi.com/view?r=eyJrIjoiMjUzNzQ5MTAtY2VhMy00MWNhLTgwZWMtYThhNjM5OWJlMDg2IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
 This is the Financial Data Dashboard which we implemented during my work in the Unite-Development Group company.
 
 The company's domain is commercial real estate management. The dashboard covered managers' requirements in different dimensions: by areas, objects, revenue, and expences groups.
@@ -31,9 +55,9 @@ BI System helped:
 
 *Tools: 1C: ERP, MS SQL Server, MS Excel, Power BI*
 
-*Note: the data in this dashboard is not real due to a NDA*
+*Note: the data in this dashboard is not real due to an NDA*
 
-## [Project 2: Exploratory Data Analysis of US Traffic Accidents](https://github.com/marsel-khusnutdin/EDA---USA-Traffic-Accidents/blob/main/EDA%20-%20USA%20Traffic%20Accidents%20Final.ipynb)
+## [Project 3: Exploratory Data Analysis of US Traffic Accidents](https://github.com/marsel-khusnutdin/EDA---USA-Traffic-Accidents/blob/main/EDA%20-%20USA%20Traffic%20Accidents%20Final.ipynb)
 
 The purposes of this project are:
 
@@ -54,7 +78,7 @@ Maintained steps:
 
 *Tools: Python on Jupyter Notebook (numpy, pandas, matplotlib, seaborn libraries)*
 
-## [Project 3: M-Ligue Tournament Results.](https://public.tableau.com/views/M-LigueResults2022/DashboardMain?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## [Project 4: M-Ligue Tournament Results.](https://public.tableau.com/views/M-LigueResults2022/DashboardMain?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 During the pandemic, the vast majority of intellectual games migrated online. One of the most attended tournaments is M-Ligue, where our team performing for almost a year. There was a necessity to create an updating dashboard that helps:
 
@@ -72,7 +96,7 @@ During the pandemic, the vast majority of intellectual games migrated online. On
 
 *Tools: Tableau, Python on Jupyter Notebook (pandas, openpyxl libraries)*
 
-## [Project 4: Budget System of Russian Federation](https://public.tableau.com/views/_16430321897780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## [Project 5: Budget System of Russian Federation](https://public.tableau.com/views/_16430321897780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The purpose of this dashboard is:
 
@@ -89,7 +113,7 @@ The purpose of this dashboard is:
 *Tools: Tableau, MS Excel*
 
 
-## Project 5: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiM2YyOGViZDgtMTMwNC00NTNlLThhYTYtM2M1NjljMTBlYWY3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmVjNTg5ZTItOTFhNC00MDI4LWI4MmUtNzUwMDRjYmFhNWQ3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
+## Project 6: Projects during IBI Internship: [CRM Orders](https://app.powerbi.com/view?r=eyJrIjoiM2YyOGViZDgtMTMwNC00NTNlLThhYTYtM2M1NjljMTBlYWY3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9) and [SoundPRO Sales and Warehouse Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmVjNTg5ZTItOTFhNC00MDI4LWI4MmUtNzUwMDRjYmFhNWQ3IiwidCI6IjhmNzY1NmJmLWRmY2MtNGVhMC04NDZlLTc0NTViNjUyMjQ3NiIsImMiOjl9)
 
 The main purposes of the CRM Orders Details dashboard are:
 
